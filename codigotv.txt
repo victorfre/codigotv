@@ -1,0 +1,7 @@
+LG
+Samsung
+Philips
+TCL
+AOC
+Toshiba
+Panasonic
